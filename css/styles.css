@@ -1,0 +1,42 @@
+h1{
+    color: rgb(26, 27, 26);
+}
+
+.titulo{
+    color: rgb(179, 19, 19);
+}
+header{
+    background-color: rgb(224, 57, 51);
+    text-align: center;
+    margin: botton 40px;
+}
+
+form{
+    width: 40%; /*ancho de la pantalla */
+    margin: 0 auto;
+    background-color: rgb(243, 228, 18);
+    padding: 40px;
+    border-radius: 20px; /*fondo*/
+    box-shadow: 0 0 10px rgb(17, 17, 17);
+}
+
+form > input{
+    width: 100%;
+    padding: 10px 0;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+
+
+}
+
+button{
+    margin: 10px 0;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(92, 148, 20);
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
